@@ -49,6 +49,6 @@ A message will be sent along with the live location and the family member with t
 </br>
 
 ## :star2: Members
-- [Aryan Veturekar](https://aryanveturekar.github.io/)
-- [Himanshu Singh](https://himanshusiingh.github.io/)
-- [Danish Shaikh](https://danishsshaikh.github.io/)
+- [Anshul](https://Anshul98765638.github.io/)
+- [Adheesh](https://a-negi1.github.io/)
+- [Paras]
